@@ -1,0 +1,17 @@
+# Decisiones de Diseño – Sistema de Gestión Académica
+
+## 1. Diseño Centrado en el Usuario
+Se diseñó el sistema priorizando accesibilidad y claridad visual.
+Esta decisión se relaciona con Software Quality del SWEBOK, enfocándose en usabilidad y accesibilidad.
+
+## 2. Componentes Reutilizables
+Se implementaron componentes reutilizables como header, menú lateral y botones.
+Se alinea con Software Design del SWEBOK, promoviendo modularidad.
+
+## 3. Modelado del Sistema
+Se elaboraron diagramas de navegación y componentes mediante PlantUML.
+Conectado con Software Engineering Models and Methods del SWEBOK.
+
+## 4. Gestión de Estados
+Se incluyeron estados de error y loading en formularios.
+Mejora la robustez y experiencia de usuario.
