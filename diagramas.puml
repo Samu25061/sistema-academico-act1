@@ -1,0 +1,17 @@
+@startuml
+package "Sistema de Gestión Académica" {
+
+  [Inicio]
+  [Dashboard]
+  [Detalle Curso]
+  [Perfil]
+  [Formulario]
+
+  [Inicio] --> [Dashboard]
+  [Dashboard] --> [Detalle Curso]
+  [Dashboard] --> [Perfil]
+  [Perfil] --> [Formulario]
+}
+@enduml
+
+
